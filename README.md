@@ -5,7 +5,10 @@ Student Management System using Python, MongoDB and TKinter GUI .
 ## Prerequisites
 Python
 MongoDB
+
 ## To clone the Repository :
+https://github.com/ThanujaDayananda/Student-Management-System.git
+
 
 ## To install Dependencies
 $ pip install -r ./requirements.txt
